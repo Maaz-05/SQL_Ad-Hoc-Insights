@@ -78,8 +78,8 @@ The **Retailer** channel contributed **73.22% of gross sales**, making it the ma
 
 | File | Description |
 |------|-------------|
-| Ad_Hoc_Requests_Codes.sql| Contains SQL queries and solutions |
-| Consumer Goods Analytics.pptx | Project presentation and insights |
+| [Ad_Hoc_Requests_Codes.sql](Ad_Hoc_Requests_Codes.sql) | Contains SQL queries and solutions |
+| [Consumer Goods Analytics.pptx](Consumer%20Goods%20Analytics.pptx) | Project presentation and insights |
 
 ---
 
