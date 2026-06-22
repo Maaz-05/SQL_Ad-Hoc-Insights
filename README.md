@@ -50,27 +50,27 @@ The project includes:
 
 ### Product Growth
 
--The number of unique products increased from **245 in 2020** to **334 in 2021**, showing strong product expansion.
+- The number of unique products increased from **245 in 2020** to **334 in 2021**, showing strong product expansion.
 
 ### Top Product Segment
 
--The **Notebook** segment had the highest product count with **129 products**.
+- The **Notebook** segment had the highest product count with **129 products**.
 
 ### Accessories Growth
 
--The **Accessories** segment increased by **34 products in 2021 compared to 2020**.
+- The **Accessories** segment increased by **34 products in 2021 compared to 2020**.
 
 ### Highest Discount Channel
 
--**Flipkart** recorded the highest average pre-invoice discount percentage at **30.83%**.
+- **Flipkart** recorded the highest average pre-invoice discount percentage at **30.83%**.
 
 ### Sales Improvement
 
--Sales performance during March and April improved in fiscal year 2021 compared to fiscal year 2020.
+- Sales performance during March and April improved in fiscal year 2021 compared to fiscal year 2020.
 
 ### Main Revenue Channel
 
--The **Retailer** channel contributed **73.22% of gross sales**, making it the major revenue driver.
+- The **Retailer** channel contributed **73.22% of gross sales**, making it the major revenue driver.
 
 ---
 
