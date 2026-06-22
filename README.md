@@ -92,11 +92,9 @@ The **Retailer** channel contributed **73.22% of gross sales**, making it the ma
 
 ---
 
-## Project Outcome
-
-This project demonstrates how SQL can transform raw business data into meaningful insights that help organizations make better strategic decisions.
-
 ## Project Presentation
+
+<embed src="./CGA.pdf" width="100%" height="600px" type="application/pdf">
 
 You can view the complete project presentation here:
 
