@@ -1,4 +1,3 @@
-# SQL_Ad-Hoc-Insights
 # AtliQ Hardwares Consumer Goods Data Analytics SQL Project
 
 ## Overview
